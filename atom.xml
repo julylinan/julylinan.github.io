@@ -1,16 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[片刻安然]]></title>
   <link href="http://julylinan.github.io/atom.xml" rel="self"/>
   <link href="http://julylinan.github.io/"/>
-  <updated>2014-09-23T20:51:02+08:00</updated>
+  <updated>2014-09-24T13:24:40+08:00</updated>
   <id>http://julylinan.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[julylinan]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[1st Blog]]></title>
+    <link href="http://julylinan.github.io/blog/2014/09/24/1st-blog/"/>
+    <updated>2014-09-24T12:57:14+08:00</updated>
+    <id>http://julylinan.github.io/blog/2014/09/24/1st-blog</id>
+    <content type="html"><![CDATA[<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='Java'><span class='line'><span class="n">Log</span><span class="o">.</span><span class="na">d</span><span class="o">(</span><span class="s">&quot;linan&quot;</span><span class="o">,</span><span class="s">&quot;hello world&quot;</span><span class="o">);</span>
+</span></code></pre></td></tr></table></div></figure>
+
+]]></content>
+  </entry>
   
 </feed>
